@@ -60,9 +60,9 @@
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/toggleButton04"
+        android:layout_alignStart="@+id/toggleButton04"
         android:layout_alignParentTop="true"
-        android:layout_alignRight="@+id/toggleButton04"
+        android:layout_alignEnd="@+id/toggleButton04"
         android:text="@string/lbl1"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
@@ -70,8 +70,8 @@
         android:id="@+id/TextView01"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/toggleButton04"
-        android:layout_alignRight="@+id/toggleButton04"
+        android:layout_alignStart="@+id/toggleButton04"
+        android:layout_alignEnd="@+id/toggleButton04"
         android:layout_below="@+id/toggleButton04"
         android:text="@string/lbl2"
         android:textAppearance="?android:attr/textAppearanceLarge" />
@@ -80,8 +80,8 @@
         android:id="@+id/TextView02"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/toggleButton03"
-        android:layout_alignRight="@+id/toggleButton03"
+        android:layout_alignStart="@+id/toggleButton03"
+        android:layout_alignEnd="@+id/toggleButton03"
         android:layout_below="@+id/toggleButton03"
         android:text="@string/lbl3"
         android:textAppearance="?android:attr/textAppearanceLarge" />
@@ -90,8 +90,8 @@
         android:id="@+id/TextView03"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/toggleButton02"
-        android:layout_alignRight="@+id/toggleButton02"
+        android:layout_alignStart="@+id/toggleButton02"
+        android:layout_alignEnd="@+id/toggleButton02"
         android:layout_below="@+id/toggleButton01"
         android:text="@string/lbl4"
         android:textAppearance="?android:attr/textAppearanceLarge" />
