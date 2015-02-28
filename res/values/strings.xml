@@ -7,4 +7,8 @@
     <string name="off">OFF</string>
 	<string name="on">ON</string>
 	<string name="toggle"></string>
+	<string name="lbl1">K1</string>
+	<string name="lbl2">K2</string>
+	<string name="lbl3">K3</string>
+	<string name="lbl4">K4</string>
 </resources>
